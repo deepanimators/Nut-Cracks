@@ -1,0 +1,9 @@
+{
+  "default_output": "~/Downloads/nut-cracks",
+  "anthropic_model": "claude-sonnet-4-6",
+  "headed": false,
+  "sync": {
+    "enabled": false,
+    "rclone_remote": "gdrive:Downloads"
+  }
+}

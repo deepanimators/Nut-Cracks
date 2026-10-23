@@ -1,0 +1,6 @@
+browser-use
+playwright
+anthropic
+langchain-anthropic
+typer[all]
+rich
